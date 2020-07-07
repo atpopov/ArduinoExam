@@ -1,0 +1,9 @@
+Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"U2",1," IR sensor"
+"U4",1," H-bridge Motor Driver"
+"D1",1,"Red LED"
+"R1",1,"470 Ω Resistor"
+"M4, M5",2," Hobby Gearmotor"
+"DIST1",1," Ultrasonic Distance Sensor"
+"BAT1",1," 9V Battery"
